@@ -36,3 +36,8 @@ footer p {
 strong {
     font-weight: bold;
 }
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+    color : brown;
+}
