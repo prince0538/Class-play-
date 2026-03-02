@@ -33,3 +33,6 @@ footer p {
     color: black;
     font-size: 18px;
 }
+strong {
+    font-weight: bold;
+}
