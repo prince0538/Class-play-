@@ -48,3 +48,16 @@ main {
 h1 {
     color: pink;
 }
+div {
+    background-color: lightgreen;
+    padding: 20px;
+}
+h1 {
+    color: purple;
+}
+h2 {
+    color: orange;
+}
+h3 {
+    color: cyan;
+}
